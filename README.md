@@ -23,4 +23,4 @@ Se alguém quiser trocar uma ideia, adicionar mais um a sua network chama aqui:
 - Facebook: gabrielmendoncanf 
 - Twitter: brunoom1
 - instagram: gabrielmendoncanf
-- site: gabrielmendonca.com
+- site: gmdevelop.com
