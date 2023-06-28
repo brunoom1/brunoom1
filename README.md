@@ -1,4 +1,15 @@
+
 # Gabriel Mendonça 
+
+- Whatsapp: (22) 98832-7317
+- Facebook: gabrielmendoncanf 
+- Twitter: brunoom1
+- instagram: gabrielmendoncanf
+- site: gabrielmendonca.com
+
+[](https://www.codewars.com/users/brunoom1/badges/large)
+
+
 
 ## Ola pessoal 👋
 
@@ -19,8 +30,3 @@ Meu próximo objetivo é adicionar um inglês na lista de idiomas (Ainda tenho q
 
 Se alguém quiser trocar uma ideia, adicionar mais um a sua network chama aqui: 
 
-- Whatsapp: (22) 98832-7317
-- Facebook: gabrielmendoncanf 
-- Twitter: brunoom1
-- instagram: gabrielmendoncanf
-- site: gmdevelop.com
